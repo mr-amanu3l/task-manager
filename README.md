@@ -1,16 +1,23 @@
-# taskmanager
+# 🚀 Flutter Internship Project – Kuraz Tech
 
-A new Flutter project.
+This is a Flutter mobile application developed as part of the internship examination for **Kuraz Tech**. The project demonstrates my skills in building cross-platform apps using Flutter and Dart, with clean UI, responsive design, and essential functionality.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Features
 
-A few resources to get you started if this is your first Flutter project:
+- ⚡ Fast and responsive UI
+- 🧭 Navigation between screens
+- 📦 State management (e.g., setState / Provider / Riverpod – update this as appropriate)
+- 🌐 API integration (if applicable)
+- 📊 Data display and interaction
+- 🎨 Custom widgets and clean code structure
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+- **Flutter** – UI toolkit
+- **Dart** – Programming language
+- **[State Management Tool]** – Replace with what you used
+
